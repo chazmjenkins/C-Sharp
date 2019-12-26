@@ -1,0 +1,11 @@
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1.deps.json
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1.runtimeconfig.json
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1.runtimeconfig.dev.json
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1.dll
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/bin/Debug/netcoreapp3.0/MacOS_Test1.pdb
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/obj/Debug/netcoreapp3.0/MacOS_Test1.csprojAssemblyReference.cache
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/obj/Debug/netcoreapp3.0/MacOS_Test1.AssemblyInfoInputs.cache
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/obj/Debug/netcoreapp3.0/MacOS_Test1.AssemblyInfo.cs
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/obj/Debug/netcoreapp3.0/MacOS_Test1.dll
+/Users/chazjenkins/Documents/GitHub/C-Sharp/MacOS_Test1/MacOS_Test1/obj/Debug/netcoreapp3.0/MacOS_Test1.pdb
