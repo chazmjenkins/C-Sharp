@@ -1,0 +1,11 @@
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\obj\Debug\netcoreapp3.1\ConditionalsWin10.csprojAssemblyReference.cache
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\obj\Debug\netcoreapp3.1\ConditionalsWin10.AssemblyInfoInputs.cache
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\obj\Debug\netcoreapp3.1\ConditionalsWin10.AssemblyInfo.cs
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.exe
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.deps.json
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.runtimeconfig.json
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.runtimeconfig.dev.json
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.dll
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\bin\Debug\netcoreapp3.1\ConditionalsWin10.pdb
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\obj\Debug\netcoreapp3.1\ConditionalsWin10.dll
+C:\Users\chajen02\Documents\GitHub\C-Sharp\ConditionalsWin10\obj\Debug\netcoreapp3.1\ConditionalsWin10.pdb

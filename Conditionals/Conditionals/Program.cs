@@ -6,7 +6,9 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var number1 = 12;
+            Increment(number1);
+            Console.WriteLine(number1);
         }
     }
 }
